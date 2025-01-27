@@ -1,0 +1,120 @@
+{
+  "response": {
+    "metadata": {
+      "name": "MANJUNATHA S V",
+      "gender": "MALE",
+      "reg_no": "06IT31",
+      "dob": "MAY-20-1989",
+      "email": "manjunathsvit@gmail.com",
+      "phone": "08194-221493",
+      "mobile": "+919686914246",
+      "branch": "INFORMATION TECHNOLOGY",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 5.0,
+        "cgpa": 5.0,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 5.58,
+        "cgpa": 5.27,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 5.48,
+        "cgpa": 5.34,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 6.71,
+        "cgpa": 5.66,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 6.63,
+        "cgpa": 5.87,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 6.88,
+        "cgpa": 6.03,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 7,
+        "duration": "DEC 2009",
+        "sgpa": 6.75,
+        "cgpa": 6.11,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Database Project",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Chess Masters Club",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "PHP"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Graphics",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "JAVA"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [],
+      "frameworks": [],
+      "databases": [],
+      "other_technologies": [],
+      "knowledge_area": []
+    }
+  },
+  "usage": {
+    "completion_tokens": 606,
+    "prompt_tokens": 2198,
+    "total_tokens": 2804
+  }
+}

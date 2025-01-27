@@ -1,0 +1,154 @@
+{
+  "response": {
+    "metadata": {
+      "name": "A. Narayana Vyas",
+      "gender": "MALE",
+      "reg_no": "06CO01",
+      "dob": "JUNE-16-1990",
+      "email": "narayana.vyas.a@gmail.com",
+      "phone": "NA",
+      "mobile": "09980465079",
+      "branch": "COMPUTER SCIENCE",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 8.64,
+        "cgpa": 8.64,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 8.5,
+        "cgpa": 8.58,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 7.74,
+        "cgpa": 8.32,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 7.46,
+        "cgpa": 8.11,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 7.96,
+        "cgpa": 8.08,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 7.2,
+        "cgpa": 7.93,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Internship under the STG Lab services team at IBM",
+        "company": "IBM",
+        "duration": "May-June 2009",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "capacity planning",
+            "server consolidation"
+          ]
+        }
+      },
+      {
+        "name": "Summer project at National Institute of Advance Sciences, Bangalore",
+        "company": "National Institute of Advance Sciences, Bangalore",
+        "duration": "May-June 2008",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "analysis of Vectors",
+            "Matrices",
+            "representation"
+          ]
+        }
+      },
+      {
+        "name": "Math Editor",
+        "company": "National Institute of Advance Sciences, Bangalore",
+        "duration": "May-June 2008",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "MathML",
+            "Unfolding Equations",
+            "Variable Declaration reference"
+          ]
+        }
+      },
+      {
+        "name": "Online Examination System",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "HTML",
+            "PHP"
+          ],
+          "frameworks": [],
+          "databases": [
+            "MySQL"
+          ],
+          "other_technologies": [],
+          "knowledge_area": [
+            "web development"
+          ]
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "HTML",
+        "PHP"
+      ],
+      "frameworks": [],
+      "databases": [
+        "MySQL"
+      ],
+      "other_technologies": [],
+      "knowledge_area": [
+        "web development",
+        "capacity planning",
+        "server consolidation",
+        "analysis of Vectors",
+        "Matrices",
+        "representation",
+        "MathML",
+        "Unfolding Equations",
+        "Variable Declaration reference"
+      ]
+    }
+  },
+  "usage": {
+    "completion_tokens": 745,
+    "prompt_tokens": 2342,
+    "total_tokens": 3087
+  }
+}

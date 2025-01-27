@@ -1,0 +1,123 @@
+{
+  "response": {
+    "metadata": {
+      "name": "ABHISHEK K",
+      "gender": "MALE",
+      "reg_no": "06CO05",
+      "dob": "AUGUST-9-1988",
+      "email": "abhishek.kona@gmail.com",
+      "phone": "NA",
+      "mobile": "+919916809388",
+      "branch": "COMPUTER SCIENCE",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 8.36,
+        "cgpa": 8.36,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 8.33,
+        "cgpa": 8.35,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 7.61,
+        "cgpa": 8.12,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 8.05,
+        "cgpa": 8.1,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 8.0,
+        "cgpa": 8.08,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 7.08,
+        "cgpa": 7.92,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project under Prof Tim Poston",
+        "company": "National Institute of Advance Sciences",
+        "duration": "May- July 2008",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "mathematical concepts",
+            "mathematical documents"
+          ]
+        }
+      },
+      {
+        "name": "Worked at Lord of Odds",
+        "company": "Lord of Odds",
+        "duration": "November 2008",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "web based widgets"
+          ]
+        }
+      },
+      {
+        "name": "DAAD WISE Scholarship 2009",
+        "company": "Freie University Berlin",
+        "duration": "2009",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "TCP behaviour",
+            "Wireless Mesh Networks"
+          ]
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [],
+      "frameworks": [],
+      "databases": [],
+      "other_technologies": [],
+      "knowledge_area": [
+        "web designing",
+        "Networks",
+        "Internet",
+        "Internet based applications",
+        "database systems"
+      ]
+    }
+  },
+  "usage": {
+    "completion_tokens": 634,
+    "prompt_tokens": 2272,
+    "total_tokens": 2906
+  }
+}

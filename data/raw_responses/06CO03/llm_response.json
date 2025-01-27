@@ -1,0 +1,154 @@
+{
+  "response": {
+    "metadata": {
+      "name": "ABHIJIT M KULKARNI",
+      "gender": "MALE",
+      "reg_no": "06CO03",
+      "dob": "SEPTEMBER-8-1988",
+      "email": "mk.abhijit@gmail.com",
+      "phone": "080-23220713",
+      "mobile": "9480708620",
+      "branch": "COMPUTER SCIENCE",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 8.36,
+        "cgpa": 8.36,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 8.83,
+        "cgpa": 8.58,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 7.61,
+        "cgpa": 8.28,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 7.92,
+        "cgpa": 8.19,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 7.12,
+        "cgpa": 7.98,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 7.04,
+        "cgpa": 7.82,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customisation of dials and sliders",
+        "company": "IISC",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "Qt"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Rudimentary Text Editor",
+        "company": "IISC",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "Java"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Library Database",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "VB"
+          ],
+          "frameworks": [],
+          "databases": [
+            "SQL"
+          ],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Paint application",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "Computer Graphics"
+          ]
+        }
+      },
+      {
+        "name": "Worked on NCTUNs Programs",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": [
+            "Software Engineering"
+          ]
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "Qt",
+        "Java",
+        "VB"
+      ],
+      "frameworks": [],
+      "databases": [
+        "SQL"
+      ],
+      "other_technologies": [],
+      "knowledge_area": [
+        "Computer Graphics",
+        "Software Engineering"
+      ]
+    }
+  },
+  "usage": {
+    "completion_tokens": 718,
+    "prompt_tokens": 2298,
+    "total_tokens": 3016
+  }
+}

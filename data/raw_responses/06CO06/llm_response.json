@@ -1,0 +1,97 @@
+{
+  "response": {
+    "metadata": {
+      "name": "ABHISHEK S",
+      "gender": "MALE",
+      "reg_no": "06CO06",
+      "dob": "MAY-31-1988",
+      "email": "abhi.kimi.msh@gmail.com",
+      "phone": "080-23634868",
+      "mobile": "09844470543",
+      "branch": "COMPUTER SCIENCE",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 7.71,
+        "cgpa": 7.71,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 8.33,
+        "cgpa": 8.0,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 7.61,
+        "cgpa": 7.88,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 6.04,
+        "cgpa": 7.43,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 7.4,
+        "cgpa": 7.43,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 7.6,
+        "cgpa": 7.46,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "development of a high speed channel data splitter",
+        "company": "Electronics and Radar Development (LRDE), Defense Research and Development Organization (DRDO)",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Cricket website for the Indian Premier League",
+        "company": "NA",
+        "duration": "5th semester",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [],
+      "frameworks": [],
+      "databases": [],
+      "other_technologies": [],
+      "knowledge_area": []
+    }
+  },
+  "usage": {
+    "completion_tokens": 542,
+    "prompt_tokens": 2223,
+    "total_tokens": 2765
+  }
+}

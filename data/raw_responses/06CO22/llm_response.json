@@ -1,0 +1,146 @@
+{
+  "response": {
+    "metadata": {
+      "name": "DENIS JOSEPH",
+      "gender": "MALE",
+      "reg_no": "06CO22",
+      "dob": "MARCH-21-1987",
+      "email": "denisjoseph333@gmail.com",
+      "phone": "0824-2415085",
+      "mobile": "9844165055",
+      "branch": "COMPUTER SCIENCE",
+      "degree": "B.TECH"
+    },
+    "academic_performance": [
+      {
+        "semester": 1,
+        "duration": "DEC 2006",
+        "sgpa": 8.5,
+        "cgpa": 8.5,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 2,
+        "duration": "MAY 2007",
+        "sgpa": 8.0,
+        "cgpa": 8.27,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 3,
+        "duration": "DEC 2007",
+        "sgpa": 7.74,
+        "cgpa": 8.11,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 4,
+        "duration": "MAY 2008",
+        "sgpa": 7.83,
+        "cgpa": 8.04,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 5,
+        "duration": "DEC 2008",
+        "sgpa": 8.0,
+        "cgpa": 8.03,
+        "degree": "B.TECH"
+      },
+      {
+        "semester": 6,
+        "duration": "MAY 2009",
+        "sgpa": 7.36,
+        "cgpa": 7.92,
+        "degree": "B.TECH"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Internship",
+        "company": "Oracle Financial Services",
+        "duration": "two years after 4th and 6th semesters each",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Database project",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Networks project",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Chat page",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "ASP.NET"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      },
+      {
+        "name": "Text editor",
+        "company": "NA",
+        "duration": "NA",
+        "skill": {
+          "programming_languages": [
+            "java",
+            "VB.NET"
+          ],
+          "frameworks": [],
+          "databases": [],
+          "other_technologies": [],
+          "knowledge_area": []
+        }
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "Oracle PL/SQL",
+        "ASP.NET",
+        "java",
+        "VB.NET"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "other_technologies": [],
+      "knowledge_area": [
+        "artificial intelligence",
+        "robotics"
+      ]
+    }
+  },
+  "usage": {
+    "completion_tokens": 711,
+    "prompt_tokens": 2345,
+    "total_tokens": 3056
+  }
+}
