@@ -1,6 +1,6 @@
 # Resume Screener
 
-A powerful resume parsing and scoring system built with Streamlit and LLM technology. The system extracts structured information from resumes and provides a comprehensive scoring based on multiple components.
+A resume parsing and scoring system built with Streamlit and LLM technology. The system extracts structured information from resumes and provides a comprehensive scoring based on multiple components.
 
 ## Features
 
