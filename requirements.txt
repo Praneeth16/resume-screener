@@ -1,28 +1,28 @@
 # Core dependencies
-streamlit==1.28.0
-python-dotenv==1.0.0
-pydantic==2.4.2
+streamlit
+python-dotenv
+pydantic
 
 # PDF Processing
-PyPDF2==3.0.1
+pypdf
 
 # LLM and API Integration
-openai==1.3.0
-instructor==0.4.0
-httpx>=0.25.0
+openai
+instructor
+httpx
 
 # Data Processing and Analysis
-numpy==1.24.3
-pandas==2.1.1
-plotly==5.18.0
+numpy
+pandas
+plotly
 
 # Testing
-pytest>=7.4.0
-pytest-asyncio>=0.21.0
-pytest-cov>=4.1.0
-pytest-mock>=3.12.0
+pytest
+pytest-asyncio
+pytest-cov
+pytest-mock
 
 # Development Tools
-black>=23.9.1
-isort>=5.12.0
-flake8>=6.1.0
+black
+isort
+flake8
