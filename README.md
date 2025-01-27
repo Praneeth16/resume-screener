@@ -139,19 +139,6 @@ Raw LLM responses are stored in `data/raw_responses/{reg_no}/llm_response.json`
    - Normalization for each category
    - Weighted aggregation for final score
 
-## Best Practices
-
-1. **Resume Format**
-   - PDF format required
-   - Clear section headers recommended
-   - Structured content preferred
-
-2. **Information Organization**
-   - Clearly labeled sections
-   - Detailed project descriptions
-   - Quantified achievements
-
-
 ## Prerequisites
 
 - Python 3.8+
